@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOCTYPE Mail [
+<!ELEMENT Mail (To, From, Date, Time, Cc, Bcc, Subject, Message, Signatu
+re)>
+]

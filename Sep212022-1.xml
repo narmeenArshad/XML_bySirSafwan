@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="Sep212022-1.css" type="text/css"?>
+<root>
+<watch>
+<name>Titan</name>
+<price>$50</price>
+<description>A brown diamond studded watch</description>
+</watch>
+<!-- Root Element -->
+<flowerPlant>
+<name>Rose</name>
+<price>$1</price>
+<description>Black in color</description>
+<number>700</number>
+</flowerPlant>
+</root>

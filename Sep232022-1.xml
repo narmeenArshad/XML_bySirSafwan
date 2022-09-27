@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Letter [
+  <!ENTITY address "15 Downing St Floor 1">
+  <!ENTITY city "New York">
+]>
+<Letter>
+   <To>"Tom Smith"</To>
+   <address>15 Downing St Floor 1</address>
+   <city>New York</city>
+   <body>Hi! How are you?
+The sum is &gt; $1000</body>
+   <From>Arnold</From>
+</Letter>
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Letter [
+  <!ENTITY address "15 Downing St Floor 1">
+  <!ENTITY city "New York">
+]>
+<Letter>
+   <To>"Tom Smith"</To>
+   <address>&address;</address>
+   <city>&city;</city>
+   <body>Hi! How are you?
+The sum is &gt; $1000</body>
+   <From>Arnold</From>
+</Letter> -->

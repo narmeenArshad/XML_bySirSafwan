@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Student xmlns:S="https://www.spectrafocus.com/student/">
+<S:First>John</S:First>
+<S:Last>Dewey</S:Last>
+<S:Title>Student</S:Title>
+</S:Student>
+
+<!-- <Auc:Books
+xmlns:Auc="https://www.auction.com/books"
+xmlns:B="https://www.books.com/HTML/1998/xmll">
+<Auc:BookReview>
+<B:Table> -->

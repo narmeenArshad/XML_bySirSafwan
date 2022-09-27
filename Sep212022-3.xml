@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Student[
+<!ELEMENT Student (name, dob, bloodGroup, rollNumber)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT bloodGroup (#PCDATA)>
+<!ELEMENT rollNumber (#PCDATA)>
+]>
+
+<Student>
+<name>James</name>
+<dob>26th September, 1983</dob>
+<bloodGroup>A +</bloodGroup>
+<rollNumber>17</rollNumber>
+
+<book>
+<name>Good XML</name>
+<cost>$20</cost>
+</book>
+
+<library>
+<name>4U Library</name>
+<address>#1, A mantion, Izaho</address>
+<auction>$10000</auction>
+</library>
+
+<name nickName='John'>
+<first>John</first>
+<!-- John is yet to pay the term fees -->
+<last>Brown</last>
+<semester>Final</semester>
+</name>
+</Student>

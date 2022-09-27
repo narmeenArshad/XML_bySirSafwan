@@ -1,0 +1,21 @@
+/* watch, flowerPlant{
+    background-color: brown;
+}
+name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    margin-right: 50px;
+} */
+
+description{
+    border: double 3px black ;
+}
+name{
+    border: solid 5px aqua;
+    border-style:dashed;
+    background-color:violet;
+}
+price{
+    border: groove 5px blue;
+    border: ridge 5px blue;
+}
